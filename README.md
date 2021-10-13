@@ -1,23 +1,25 @@
-# TÍTULO DO PROJETO
+# CONTROLE COVID-19
 
-`CURSO`
+`TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS`
 
-`DISCIPLINA`
+`PROJETO: DESENVOLVIMENTO DE APLICAÇÃO WEB FRONT-END`
 
-`SEMESTRE`
+`2º/2021`
 
 Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Adan Rudieri Gonçalves da Silva
+* Gabriel Judá de Oliveira
+* Márcia Maria de Paula Ferreira
+* Sylvia Camargos Freitas
+* Thais Rodrigues Dantas
+* Thiago Roberto de Souza
 
 ## Orientador
 
-* Nome completo do professor 1
+* Luciana de Nardin
 
 ## Instruções de utilização
 
