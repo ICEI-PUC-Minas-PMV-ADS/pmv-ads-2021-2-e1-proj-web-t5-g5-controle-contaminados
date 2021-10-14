@@ -6,7 +6,7 @@
 
 `2º/2021`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Aplicação que possibilita o registro da presença de pessoas em um local e o envio de notificações, caso houvesse alguém contaminado naquele espaço.
 
 ## Integrantes
 
