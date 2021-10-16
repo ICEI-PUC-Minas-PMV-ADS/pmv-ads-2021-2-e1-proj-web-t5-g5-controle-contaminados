@@ -42,17 +42,19 @@ Apresente aqui as histórias de usuário que são relevantes para o projeto de s
 
 ## Requisitos
 
-
-A seguir estão representados no quadro alguns requisitos funcionais que o projeto deverá atender:A seguir estão representados no quadro alguns requisitos funcionais que o projeto deverá atender:
-ID	Descrição	Prioridade
+## Requisitos Funcionais
+A seguir estão representados no quadro alguns requisitos funcionais que o projeto deverá atender:
+ID	   Descrição	                                                                                                                                           Prioridade
+_____________________________________________________________________________________________________________________________________________________________________
 RF – 01	O sistema deverá enviar notificações para os usuários informando se tiveram contato com pessoas contaminadas em um determinado espaço público ou evento.	Alta
-RF – 02	O sistema deverá apresentar um mapa informando as regiões com maior número de infectados (API).	Baixa
-RF – 04	O sistema deverá gerar um código/token que será utilizado pelos frequentadores dos espaços/eventos para realizar seu check-in no local.	Média
-RF – 05	O sistema deverá permitir o gerenciamento de usuários, de médicos e de organizadores de eventos.	Alta
-RF – 06	O sistema deverá conter o contato do responsável pela criação do sistema.	Média
-RF – 07	O sistema deverá permitir o cadastro de eventos.	Alta
-RF – 08	O sistema deverá permitir o cadastro de um indivíduo positivado (CPF).	Alta
-RF – 09	O sistema deverá permitir que sejam realizados filtros por idade nos diversos eventos e espaços.	Média
+RF – 02	O sistema deverá apresentar um mapa informando as regiões com maior número de infectados (API).	                                                        Baixa
+RF – 04	O sistema deverá gerar um código/token que será utilizado pelos frequentadores dos espaços/eventos para realizar seu check-in no local.                	Média
+RF – 05	O sistema deverá permitir o gerenciamento de usuários, de médicos e de organizadores de eventos.	                                                        Alta
+RF – 06	O sistema deverá conter o contato do responsável pela criação do sistema.	                                                                              Média
+RF – 07	O sistema deverá permitir o cadastro de eventos.	                                                                                                        Alta
+RF – 08	O sistema deverá permitir o cadastro de um indivíduo positivado (CPF).	                                                                                  Alta
+RF – 09	O sistema deverá permitir que sejam realizados filtros por idade nos diversos eventos e espaços.	                                                       Média
+
 2.3.2. Requisitos Não funcionais
 
 
