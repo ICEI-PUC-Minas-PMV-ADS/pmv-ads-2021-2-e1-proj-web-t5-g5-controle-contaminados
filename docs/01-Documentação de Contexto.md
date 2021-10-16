@@ -5,7 +5,7 @@ A falta de informação pode trazer sérios riscos à saúde como o uso de prát
 De acordo com o apresentado nas revistas Revide (2021) e Convergência Digital (2021), a Global Health Monitor (GHM) em parceria com o Instituto Butantan, lançou em 2021 um aplicativo que auxilia no monitoramento de pessoas contaminadas, o aplicativo consegue verificar se a pessoa está em uma área de alto risco de contaminação, utilizando a geolocalização do celular, e fornece informações para casos suspeitos. O cadastro de contaminados é feito pelo próprio usuário dentro do aplicativo, através de uma autoavaliação do usuário. Esta autoavaliação não garante a certeza das informações e pode conter informações falsas, trazendo um risco de propagação de dados através de fake news.
 Perante o exposto, é essencial que sejam utilizadas ferramentas que possam auxiliar no envio de informações para a população sobre questões de saúde pública.
 
-![Optional Text](../master/myFolder/x.jpg)
+![Optional Text](../x.jpg)
 
 
 
