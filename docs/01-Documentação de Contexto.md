@@ -7,7 +7,12 @@ Perante o exposto, é essencial que sejam utilizadas ferramentas que possam auxi
 
 ![Optional Text](../x.jpg)
 
+*Este* é um **trabalho de projeto integrado.....**
 
+ - Sylvia 
+ - Thiago
+ - Márcia
+ - Gabriel
 
 
 
