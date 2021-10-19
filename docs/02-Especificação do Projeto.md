@@ -40,20 +40,26 @@ Apresente aqui as histórias de usuário que são relevantes para o projeto de s
 > - [Histórias de Usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
 > - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
 
-## Requisitos
+3.  **Requisitos do Projeto**
+    
 
-## Requisitos Funcionais
+O projeto em questão, é uma ferramenta que auxiliará o público que frequenta um determinado evento, além de espaços públicos em todo o estado de Minas Gerais, para que verifiquem se houve, ou não, contaminados participando do evento. Orientando os participantes, para que os mesmos procurem atendimento médico preventivo e a realização se necessário do exame para detecção da COVID.
+
+1.  **Requisitos Funcionais**
+    
+
 A seguir estão representados no quadro alguns requisitos funcionais que o projeto deverá atender:
-ID	   Descrição	                                                                                                                                           Prioridade
-_____________________________________________________________________________________________________________________________________________________________________
-RF – 01	O sistema deverá enviar notificações para os usuários informando se tiveram contato com pessoas contaminadas em um determinado espaço público ou evento.	Alta
-RF – 02	O sistema deverá apresentar um mapa informando as regiões com maior número de infectados (API).	                                                        Baixa
-RF – 04	O sistema deverá gerar um código/token que será utilizado pelos frequentadores dos espaços/eventos para realizar seu check-in no local.                	Média
-RF – 05	O sistema deverá permitir o gerenciamento de usuários, de médicos e de organizadores de eventos.	                                                        Alta
-RF – 06	O sistema deverá conter o contato do responsável pela criação do sistema.	                                                                              Média
-RF – 07	O sistema deverá permitir o cadastro de eventos.	                                                                                                        Alta
-RF – 08	O sistema deverá permitir o cadastro de um indivíduo positivado (CPF).	                                                                                  Alta
-RF – 09	O sistema deverá permitir que sejam realizados filtros por idade nos diversos eventos e espaços.	                                                       Média
+
+|ID|Descrição|Prioridade|
+|---|-----------|-------|
+|**RF – 01**|O sistema  deverá enviar notificações para os usuários informando se tiveram contato com pessoas contaminadas em um determinado espaço público ou evento.|Alta|
+|**RF – 02**|O sistema deverá apresentar um mapa informando as regiões com maior número de infectados (API).|Baixa|
+|**RF – 04**|O sistema deverá gerar um código/token que será utilizado pelos frequentadores dos espaços/eventos para realizar seu check-in no local.|Média|
+|**RF – 05**|O sistema deverá permitir o gerenciamento de usuários, de médicos e de organizadores de eventos.|Alta|
+|**RF – 06**|O sistema deverá conter o contato do responsável pela criação do sistema.|Média|
+|**RF – 07**|O sistema deverá permitir o cadastro de eventos.|Alta|
+|**RF – 08**|O sistema deverá permitir o cadastro de um indivíduo positivado (CPF).|Alta|
+|**RF – 09**|O sistema deverá permitir que sejam realizados filtros por idade nos diversos eventos e espaços.|Média|
 
 **Requisitos Não funcionais**
     
