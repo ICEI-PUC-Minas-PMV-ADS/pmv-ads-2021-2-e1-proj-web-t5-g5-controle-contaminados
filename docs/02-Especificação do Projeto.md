@@ -55,57 +55,34 @@ RF – 07	O sistema deverá permitir o cadastro de eventos.	                    
 RF – 08	O sistema deverá permitir o cadastro de um indivíduo positivado (CPF).	                                                                                  Alta
 RF – 09	O sistema deverá permitir que sejam realizados filtros por idade nos diversos eventos e espaços.	                                                       Média
 
-2.3.2. Requisitos Não funcionais
+2.3.2.Requisitos Não funcionais
+    
+
+A seguir estão representados no quadro alguns requisitos não funcionais que o projeto deverá atender:
+
+| ID | Descrição |  Prioridade  |
+|----|-------------|------------|
+|**RNF – 01** |O tempo de resposta do sistema não deve ultrapassar 5 segundos.| Média |
+|**RNF – 02**| O sistema deve ser implantado na linguagem html, css e javascript.|Alta|
+|**RNF – 03**|O sistema deve ser executável em qualquer browser. (Mozila, Internet Explorer, Opera, etc..)|Alta|
+|**RNF – 04**|O sistema deverá estar disponível para qualquer dispositivo que possua um navegador instalado.|Alta|
+|**RNF – 05**|O sistema deverá possuir utilização do módulo de informações cadastrais em modo offline.|Média|
+|**RNF – 06**|O sistema deverá enviar notificações por meio de SMS|Alta|
+|**RNF – 07**|O código/token utilizado para vincular as pessoas aos espaços será um QRCode (API).|Alta|
+
+3.  Restrições
+    
+
+A elaboração tem como objetivo elencar as obrigações que limitam a execução do projeto estão na tabela a seguir:
+
+|ID|Descrição|
+|---|---------|
+|**RE – 01**|O projeto não deve extrapolar às tecnologias básicas da web front-end.|
+|**RE – 02**|O site tem data de entrega fixada ao fim do semestre. Data 06/12/2021|
+|**RE – 03**|O projeto não pode sofrer interferências externas e não pode ser subcontratado o desenvolvimento da aplicação.|
 
 
 
 
 
 
-As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
-
-### Requisitos Funcionais
-
-|ID    | Descrição do Requisito  | Prioridade |
-|------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
-
-
-### Requisitos não Funcionais
-
-|ID     | Descrição do Requisito  |Prioridade |
-|-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
-
-Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
-
-- [Requisitos Funcionais
- (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
- correspondem a uma funcionalidade que deve estar presente na
-  plataforma (ex: cadastro de usuário).
-- [Requisitos Não Funcionais
-  (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
-  correspondem a uma característica técnica, seja de usabilidade,
-  desempenho, confiabilidade, segurança ou outro (ex: suporte a
-  dispositivos iOS e Android).
-Lembre-se que cada requisito deve corresponder à uma e somente uma
-característica alvo da sua solução. Além disso, certifique-se de que
-todos os aspectos capturados nas Histórias de Usuário foram cobertos.
-
-## Restrições
-
-O projeto está restrito pelos itens apresentados na tabela a seguir.
-
-|ID| Restrição                                             |
-|--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
-
-
-Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
-
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
