@@ -55,7 +55,7 @@ RF – 07	O sistema deverá permitir o cadastro de eventos.	                    
 RF – 08	O sistema deverá permitir o cadastro de um indivíduo positivado (CPF).	                                                                                  Alta
 RF – 09	O sistema deverá permitir que sejam realizados filtros por idade nos diversos eventos e espaços.	                                                       Média
 
-##**Requisitos Não funcionais
+**Requisitos Não funcionais**
     
 
 A seguir estão representados no quadro alguns requisitos não funcionais que o projeto deverá atender:
