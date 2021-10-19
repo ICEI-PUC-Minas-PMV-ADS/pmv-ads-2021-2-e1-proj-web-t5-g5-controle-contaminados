@@ -1,32 +1,35 @@
 
 # Metodologia
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
+<p align="justify">Na metodologia serão apresentadas as ferramentas utilizadas pelo grupo para organização da equipe de trabalho, assim como para a manutenção dos códigos e dos demais artefatos.</p>
 
-Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Definições sobre os ambiente de trabalho utilizados pela  equipe para desenvolver o projeto. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).
+## Relação de Ambientes de Trabalho
+<p align="justify">Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a relação dos ambientes com seu respectivo propósito é apresentada na tabela a seguir.</p>
 
-## Controle de Versão
+<table>
+ 
+|Ambiente| Plataforma |Link de acesso                 |
+|--------------------|------------------------------------|----------------------------------------|
+|Repositório de código fonte  | GitHub           | [https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g5-controle-contaminados](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g5-controle-contaminados)              |
+|Documentos do projeto      | Google Drive                 | [https://drive.google.com/drive/folders/1gsRLEZjtLO601GWzJtXCYdsmMgJ-CWF_](https://drive.google.com/drive/folders/1gsRLEZjtLO601GWzJtXCYdsmMgJ-CWF_) |
+|Projeto de Interface e Wireframes      | MarvelApp                 | [https://marvelapp.com/prototype/2bei8846/screen/82408495](https://marvelapp.com/prototype/2bei8846/screen/82408495) |
+|Gerenciamento do Projeto     | WhatsApp e Trello               | [https://chat.whatsapp.com/Gta1Z3EeOJC1KaBFpgGu1w](https://chat.whatsapp.com/Gta1Z3EeOJC1KaBFpgGu1w)  [https://trello.com/b/lmSlQfwt/projeto-controle-de-contaminados](https://trello.com/b/lmSlQfwt/projeto-controle-de-contaminados) |
 
-A ferramenta de controle de versão adotada no projeto foi o
-[Git](https://git-scm.com/), sendo que o [Github](https://github.com)
-foi utilizado para hospedagem do repositório.
+> **Possíveis Ferramentas que auxiliarão no gerenciamento**: 
+> - [Slack](https://slack.com/)
+> - [Github](https://github.com/)
 
-O projeto segue a seguinte convenção para o nome de branches:
 
-- `main`: versão estável já testada do software
-- `unstable`: versão já testada do software, porém instável
-- `testing`: versão em testes do software
-- `dev`: versão de desenvolvimento do software
+## Gestão de Código Fonte
 
-Quanto à gerência de issues, o projeto adota a seguinte convenção para
-etiquetas:
+<p align="justify">Para gestão do código fonte do software desenvolvido pela equipe, o grupo optou por utilizar um fluxo de trabalho baseado no GitFlow, o qual foi publicado pela primeira vez por Vincent Driessen, em 2010, no blog nivie. A estrutura desse fluxo de trabalho pode ser observada na figura a seguir.</p>
 
-- `documentation`: melhorias ou acréscimos à documentação
-- `bug`: uma funcionalidade encontra-se com problemas
-- `enhancement`: uma funcionalidade precisa ser melhorada
-- `feature`: uma nova funcionalidade precisa ser introduzida
+<p align="center">
+<img src="https://user-images.githubusercontent.com/90805823/137821843-7eb74db9-ec74-4ca0-bad6-a6b4aedd100e.png" alt="Figura 1 - Fluxo de controle do código fonte no repositório Git.">
+<p align="center">Figura 1 - Fluxo de controle do código fonte no repositório Git.</p>
+ </p>
 
-Discuta como a configuração do projeto foi feita na ferramenta de versionamento escolhida. Exponha como a gerência de tags, merges, commits e branchs é realizada. Discuta como a gerência de issues foi realizada.
+<p align="justify">No blog, Driessen (2010) destaca que neste fluxo de trabalho todas as manutenções no código são realizadas em ramificações (branches) separadas, e que neste fluxo há dois tipos de ramificações principais, chamadas de main e de develop, em que a primeira é responsável por armazenar o histórico do lançamento oficial, e a segunda serve como uma ramificação de integração para recursos. Além das ramificações principais, há também outros três tipos de ramificações, sendo elas as ramificações de recurso, de lançamento e de manutenção, denominadas, respectivamente, de feature, release e hotfix.</p> 
 
 > **Links Úteis**:
 > - [Tutorial GitHub](https://guides.github.com/activities/hello-world/)
@@ -55,23 +58,3 @@ Coloque  informações sobre detalhes da implementação do Scrum seguido pelo g
 > - [Sobre quadros de projeto](https://docs.github.com/pt/github/managing-your-work-on-github/about-project-boards)
 > - [Como criar Backlogs no Github](https://www.youtube.com/watch?v=RXEy6CFu9Hk)
 > - [Tutorial Slack](https://slack.com/intl/en-br/)
-
-### Ferramentas
-
-As ferramentas empregadas no projeto são:
-
-- Editor de código.
-- Ferramentas de comunicação
-- Ferramentas de desenho de tela (_wireframing_)
-
-O editor de código foi escolhido porque ele possui uma integração com o
-sistema de versão. As ferramentas de comunicação utilizadas possuem
-integração semelhante e por isso foram selecionadas. Por fim, para criar
-diagramas utilizamos essa ferramenta por melhor captar as
-necessidades da nossa solução.
-
-Liste quais ferramentas foram empregadas no desenvolvimento do projeto, justificando a escolha delas, sempre que possível.
- 
-> **Possíveis Ferramentas que auxiliarão no gerenciamento**: 
-> - [Slack](https://slack.com/)
-> - [Github](https://github.com/)
