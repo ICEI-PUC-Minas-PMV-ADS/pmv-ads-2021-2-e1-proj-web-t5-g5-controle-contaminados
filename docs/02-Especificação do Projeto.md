@@ -40,7 +40,7 @@ Apresente aqui as histórias de usuário que são relevantes para o projeto de s
 > - [Histórias de Usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
 > - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
 
-3.  **Requisitos do Projeto**
+##**Requisitos do Projeto**
     
 
 O projeto em questão, é uma ferramenta que auxiliará o público que frequenta um determinado evento, além de espaços públicos em todo o estado de Minas Gerais, para que verifiquem se houve, ou não, contaminados participando do evento. Orientando os participantes, para que os mesmos procurem atendimento médico preventivo e a realização se necessário do exame para detecção da COVID.
