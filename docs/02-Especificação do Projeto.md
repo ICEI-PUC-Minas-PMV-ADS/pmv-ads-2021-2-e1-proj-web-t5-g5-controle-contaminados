@@ -61,7 +61,7 @@ A seguir estão representados no quadro alguns requisitos funcionais que o proje
 |**RF – 08**|O sistema deverá permitir o cadastro de um indivíduo positivado (CPF).|Alta|
 |**RF – 09**|O sistema deverá permitir que sejam realizados filtros por idade nos diversos eventos e espaços.|Média|
 
-**Requisitos Não funcionais**
+## 2. **Requisitos Não funcionais**
     
 
 A seguir estão representados no quadro alguns requisitos não funcionais que o projeto deverá atender:
@@ -76,7 +76,7 @@ A seguir estão representados no quadro alguns requisitos não funcionais que o 
 |**RNF – 06**|O sistema deverá enviar notificações por meio de SMS|Alta|
 |**RNF – 07**|O código/token utilizado para vincular as pessoas aos espaços será um QRCode (API).|Alta|
 
-3.  Restrições
+## 3. **Restrições**
     
 
 A elaboração tem como objetivo elencar as obrigações que limitam a execução do projeto estão na tabela a seguir:
