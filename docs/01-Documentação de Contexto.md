@@ -22,7 +22,7 @@ Perante o exposto, é essencial que sejam utilizadas ferramentas que possam auxi
 
 ## Problema
 
-Como apresentado, o presente trabalho tem objetivo de contribuir para minimizar os impactos relacionados à incidência do coronavírus em todo estado de Minas Gerais. Os índices de pessoas contaminadas seguem oscilando de região para região, expondo vários pontos de melhoria para um melhor controle e medidas de prevenção contra o Covid. A escassez de softwares informativos voltados para conscientização da população, refletem na falta de estratégias assertivas que contribuem na diminuição dos números de pessoas infectadas em todas regiões. Baixos investimentos na saúde pública tendem a limitar uma melhor atuação no cenário atual, caso seja aplicado melhorias, poderia solucionar problemas como, falta de informação e notificação sobre indivíduos contaminados em um mesmo local.
+<p align="justify">Como apresentado, o presente trabalho tem objetivo de contribuir para minimizar os impactos relacionados à incidência do coronavírus em todo estado de Minas Gerais. Os índices de pessoas contaminadas seguem oscilando de região para região, expondo vários pontos de melhoria para um melhor controle e medidas de prevenção contra o Covid. A escassez de softwares informativos voltados para conscientização da população, refletem na falta de estratégias assertivas que contribuem na diminuição dos números de pessoas infectadas em todas regiões. Baixos investimentos na saúde pública tendem a limitar uma melhor atuação no cenário atual, caso seja aplicado melhorias, poderia solucionar problemas como, falta de informação e notificação sobre indivíduos contaminados em um mesmo local.</p>
 
 > **Links Úteis**:
 > - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
@@ -31,14 +31,14 @@ Como apresentado, o presente trabalho tem objetivo de contribuir para minimizar 
 
 ## Objetivos
 
-O objetivo geral do trabalho é a criação de uma aplicação que possibilita o registro da presença de pessoas em um local e o envio de notificações, caso houvesse alguém contaminado naquele espaço.
+<p align="justify">O objetivo geral do trabalho é a criação de uma aplicação que possibilita o registro da presença de pessoas em um local e o envio de notificações, caso houvesse alguém contaminado naquele espaço.
 
 Os objetivos específicos são:
 
  - Envio de notificação para pessoas que frequentaram o ambiente onde houve casos de uma determinada doença.
  - Integrar a aplicação com pessoas que testaram positivo para a COVID.
  - Facilitar o mapeamento da contaminação por região.
- - Permitir que os usuários tenham ciência para realizar quarentena ou buscar apoio médico, se necessário.
+ - Permitir que os usuários tenham ciência para realizar quarentena ou buscar apoio médico, se necessário.</p>
 
  
 > **Links Úteis**:
@@ -46,16 +46,16 @@ Os objetivos específicos são:
 
 ## Justificativa
 
-Segundo Flaxman _et al_ (2020), medidas preventivas como o isolamento social possibilitaram uma minimização de impactos da COVID-19 em 11 países da Europa. O estudo mostra que cerca de 3 milhões de vidas foram salvas devido às medidas tomadas.
+<p align="justify">Segundo Flaxman _et al_ (2020), medidas preventivas como o isolamento social possibilitaram uma minimização de impactos da COVID-19 em 11 países da Europa. O estudo mostra que cerca de 3 milhões de vidas foram salvas devido às medidas tomadas.</p>
 
-Com a insegurança da população em retomar sua rotina e a ausência de informações precisas que ajudem a tomar as decisões corretas, surgem problemas como, disseminação de _fake news_, ausência de notas de avisos num determinado raio de espaço onde uma determinada pessoa infectada tenha frequentado, falta de alerta sugerindo fazer o teste do Covid, contador de indivíduos(as) infectados(as) por bairro/região, carência de alertas de regiões mais afetadas e quais regiões devem ser evitadas.
+<p align="justify">Com a insegurança da população em retomar sua rotina e a ausência de informações precisas que ajudem a tomar as decisões corretas, surgem problemas como, disseminação de _fake news_, ausência de notas de avisos num determinado raio de espaço onde uma determinada pessoa infectada tenha frequentado, falta de alerta sugerindo fazer o teste do Covid, contador de indivíduos(as) infectados(as) por bairro/região, carência de alertas de regiões mais afetadas e quais regiões devem ser evitadas.</p>
 
 > **Links Úteis**:
 > - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
 ## Público-Alvo
 
-O público-alvo estabelecido para este trabalho são organizadores de eventos, médicos, além de jovens a partir de 15 anos e adultos até 65 anos que frequentam espaços públicos, eventos, como teatros, restaurantes, bares, eventos esportivos, entre outros, e posteriormente desejam ter acesso às informações sobre possíveis contágios nos locais que estiveram e também, terem a oportunidade de informar as pessoas que estiveram nos mesmos espaços que eles, caso descubram que estavam contaminados.
+<p align="justify">O público-alvo estabelecido para este trabalho são organizadores de eventos, médicos, além de jovens a partir de 15 anos e adultos até 65 anos que frequentam espaços públicos, eventos, como teatros, restaurantes, bares, eventos esportivos, entre outros, e posteriormente desejam ter acesso às informações sobre possíveis contágios nos locais que estiveram e também, terem a oportunidade de informar as pessoas que estiveram nos mesmos espaços que eles, caso descubram que estavam contaminados.</p>
 
 > **Links Úteis**:
 > - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
