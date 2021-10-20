@@ -34,7 +34,7 @@ Demonstra-se a seguir os itens que fazem parte da solução divididos em módulo
 
 -  **Hospedagem** – Site que aplicação fica mantida online na web.
     
-    https://stackedit.io/app#
+   https://whimsical.com/36333912-48a9-4388-bd4a-e275d5056699
 
 ## 2.  Hospedagem
     
