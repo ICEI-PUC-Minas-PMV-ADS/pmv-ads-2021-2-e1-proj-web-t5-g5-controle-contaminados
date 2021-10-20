@@ -42,7 +42,14 @@
 
 ### Divisão de Papéis
 
-Apresente a divisão de papéis entre os membros do grupo.
+<p align="justify">Para atuação em processos de desenvolvimento do projeto como, planejamento, ciclos de atividades programadas, controle de processos, redução de falhas.  A equipe utiliza metodologias ágeis, optando pela utilização do Scrum, que oferece  fácil adaptação a qualquer tipo de projeto.</p>
+
+Organização da equipe:
+
+ - **Scrum Master:** Thais Dantas
+ - **Product Owner:**  Luciana de Nardin
+ - **Equipe de Desenvolvimento:** Adan Rudieri, Gabriel Judá e Thiago Roberto.
+ - **Equipe de Design:** Sylvia Freitas e Márcia Ferreira.
 
 > **Links Úteis**:
 > - [11 Passos Essenciais para Implantar Scrum no seu 
@@ -51,7 +58,20 @@ Apresente a divisão de papéis entre os membros do grupo.
 
 ### Processo
 
-Coloque  informações sobre detalhes da implementação do Scrum seguido pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução.
+<p align="justify">Para organização e distribuição das tarefas do projeto, a equipe optou por utilizar o WhatsApp na realização das duas primeiras etapas, já nas etapas que se seguem foi escolhido o Trello como ferramenta de organização o qual está estruturado da seguinte maneira:</p>
+
+ - **Cartões de projeto→** Os cartões de projeto no Trello vão organizar e priorizar o trabalho. É possível criar quadros de projeto para trabalho de recursos específicos, roteiros abrangentes ou até mesmo checklists. Com os quadros de projeto, você tem a flexibilidade de criar fluxos de trabalho personalizados adequados às necessidades desta ferramenta, durante todo processo de gerenciamento do projeto controle de pessoas infectadas.
+ - **Gerenciamento dos cartões→** Os cartões de projeto serão usados para criar fluxos de trabalho personalizados adequados às
+   necessidades, como rastreamento e priorização do trabalho e
+   desenvolvimento.
+ - **Personalize o "Board" para seus objetivos→** Dentro dos cartões, é permitido escrever comentários, adicionar links, salvar anexos,
+   determinar prazos e acrescentar imagens, especificando o assunto de
+   cada um deles. Esses cartões podem ser movimentados entre as colunas
+   de um mesmo quadro, de modo que você pode realizar transições de um
+   tópico para as demais colunas.
+
+Informações completas deste projeto estão disponibilizadas através da URL [https://trello.com/b/lmSlQfwt/projeto-controle-de-contaminados](https://trello.com/b/lmSlQfwt/projeto-controle-de-contaminados)
+
  
 > **Links Úteis**:
 > - [Project management, made simple](https://github.com/features/project-management/)
