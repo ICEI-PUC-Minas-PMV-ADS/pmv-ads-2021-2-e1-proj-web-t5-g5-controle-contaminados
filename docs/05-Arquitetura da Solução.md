@@ -1,12 +1,16 @@
 ##  ARQUITETURA DA SOLUÇÃO
     
 
-Esta seção demonstra os aspectos técnicos da aplicação criada pela equipe, apresentando os componentes que determinam a solução e descreve o site de hospedagem da página. 
+Esta seção demonstra os aspectos técnicos da aplicação criada pela equipe, apresentando os componentes que determinam a solução e descreve o site de hospedagem da página.
 
 **1.  Diagrama da Solução**
     
+Neste diagrama estão expostos os componentes que fazem parte da solução:  
 
+![Fluxograma](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g5-controle-contaminados/blob/main/Fluxograma.png)
 
+                                   Figura 12 - Diagrama - Arquitetura de solução   
+  
 Demonstra-se a seguir os itens que fazem parte da solução divididos em módulos: 
 
  
@@ -33,9 +37,9 @@ Demonstra-se a seguir os itens que fazem parte da solução divididos em módulo
     
 
 -  **Hospedagem** – Site que aplicação fica mantida online na web.
-    
-   https://whimsical.com/36333912-48a9-4388-bd4a-e275d5056699
 
+
+ 
 ## 2.  Hospedagem
     
 
