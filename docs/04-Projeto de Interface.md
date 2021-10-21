@@ -7,8 +7,10 @@ Dentre as preocupações para a montagem da interface do sistema, estamos estabe
 
 ## User Flow
 
-A figura 1 mostra o fluxo de interação do usuário pelas telas do sistema. Cada uma das telas deste fluxo é detalhada na seção de Wireframes que segue. Para visualizar o wireframe interativo, acesse o [ambiente Marvelapp do projeto](https://marvelapp.com/prototype/2bei8846/screen/82408495).
+A figura 2 mostra o fluxo de interação do usuário pelas telas do sistema. Cada uma das telas deste fluxo é detalhada na seção de Wireframes que segue. Para visualizar o wireframe interativo, acesse o [ambiente Marvelapp do projeto](https://marvelapp.com/prototype/2bei8846/screen/82408495).
 
+![Fluxo de telas](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g5-controle-contaminados/blob/main/docs/img/Fluxo%20de%20telas%20do%20usu%C3%A1rio.jpg)
+                                                                
 
 > **Links Úteis**:
 > - [User Flow: O Quê É e Como Fazer?](https://medium.com/7bits/fluxo-de-usu%C3%A1rio-user-flow-o-que-%C3%A9-como-fazer-79d965872534)
