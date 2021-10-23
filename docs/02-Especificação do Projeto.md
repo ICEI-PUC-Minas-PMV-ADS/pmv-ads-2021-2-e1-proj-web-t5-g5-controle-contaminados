@@ -1,4 +1,113 @@
-# Especificações do Projeto
+**Mateus Alvarenga**
+
+**Idade**: 42 anos
+**Ocupação**: Organizador de eventos, atualmente trabalha como autônomo.
+**Aplicativos:**
+Facebook
+Instagram
+LinkedIn
+**Motivações:**
+Realizar eventos para ajudar comunidades carentes.
+Prestar serviços para uma multinacional.
+**Frustrações:**
+Cancelamento de eventos devido a pandemia.
+Falta de reconhecimento da sua profissão.
+**Hobbies, História:**
+Viajar com sua família.
+Praticar ciclismo nos finais de semana.
+
+**Adriana Gonçalves**
+
+**Idade**: 50 anos
+**Ocupação**: Dona de casa, saiu do emprego de vendedora para cuidar do pai debilitado.
+**Aplicativos:**
+Facebook
+Aplicativo de receitas culinárias.
+Aplicativos de delivery.
+**Motivações:**
+O bem estar do pai e de seus filhos.
+Passar por essa pandemia sem perder nenhum ente querido.
+**Frustrações:**
+Falta de apoio do governo aos lojistas durante a pandemia.
+Sente falta da vida social antes da pandemia.
+**Hobbies, História:**
+Reunir toda a família nos finais de semana.
+Encontrar as amigas para aula de zumba.
+
+**Laís Ferreira**
+
+**Idade**: 17 anos
+**Ocupação**: Estudante, cursa o último ano do ensino médio, deseja prestar vestibular para Biomedicina.
+**Aplicativos:**
+Instagram
+Tik Tok
+Twitter
+**Motivações:**
+Passar no vestibular de Biomedicina.
+Pesquisar e realizar novas descobertas científicas na área de Biomedicina.
+**Frustrações:**
+Falta de investimento em pesquisas científicas nas escolas.
+Falta de inovação nas aulas ministradas por EAD.
+**Hobbies, História:**
+Ler artigos científicos
+Ler livros em uma boa cafeteria.
+Tem um perfil no Instagram sobre ciência no dia a dia.
+
+**Tamires Feitosa**
+
+**Idade** **Tamires**: 26 anos
+**Ocupação**: Técnica de Enfermagem, atualmente trabalha no CTI COVID.
+**Aplicativos:**
+Instagram.
+Twitter.
+**Motivações:**
+Dar uma casa melhor para seus pais.
+Fazer um curso superior na área da saúde
+**Frustrações:**
+Irresponsabilidade da população referente ao isolamento social na pandemia.
+Inúmeras perdas de paciente jovens pelo COVID.
+**Hobbies, História:**
+Igreja aos finais de semana
+Encontrar os amigos para correr ao ar livre
+Cuidar dos pais idosos.
+
+**Pedro Augusto**
+
+**Idade**: 22 anos
+**Ocupação**: Engenheiro mecânico, trabalha em uma grande fábrica automotiva.
+**Aplicativos:**
+Instagram.
+Facebook.
+**Frustrações:**
+Avô acamado que ficou debilitado após ter contraído COVID.
+Vacinação deficiente na maioria dos Estados brasileiros.
+**Hobbies, História:**
+Corrida de rua.
+Encontrar os amigos no barzinho aos finais de semana.
+Futebol.
+**Motivações:**
+Viver o máximo que a vida tem para oferecer, viajar, com muita saúde e segurança.
+Crescer profissionalmente.
+
+**Thiago Lavoe**
+
+**Idade**: 30 anos
+**Ocupação:** Médico recém formado, dá plantões em unidades de Pronto Atendimentos e Unidades básicas de saúde.
+**Aplicativos:**
+-Instagram.
+-LinkedIn.
+-Aplicativos de bancos.
+**Motivações:**
+Promover uma melhoria na saúde coletiva da população e despertar o autocuidado de seus pacientes.
+**Frustrações**
+-Não ter realizado o mestrado em Saúde Coletiva.
+-Corrupção.
+-Dificuldade da população ao acesso à saúde integral.
+**Hobbies, História**
+-Toca violão
+-Voluntário no lar de idosos da comunidade.
+-Líder do projeto Mais Saúde, Mais Você.
+
 
 <span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
 
