@@ -37,19 +37,54 @@ A tela de abertura mostra uma apresentação do sistema de Controle de Contamina
 
 ![Tela abertura](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g5-controle-contaminados/blob/main/docs/img/tela%20abertura.png)
 
+## Início da Pesquisa e Cadastro (Menus)
 
+A tela de início da pesquisa apresenta opções para acessar as regiões de Minas Gerais, onde possa existir infectados, ler o código/token, gerar código/token, fazer cadastrado de usuários, cadastro de médicos e de eventos.
+
+![Início da Pesquisa e Cadastro](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g5-controle-contaminados/blob/main/docs/img/Tela%20In%C3%ADcio%20da%20Pesquisa%20e%20Cadastro%20(Menus).png)
+
+## Tela – Resultado da Pesquisa – Regiões e Número de Infectados
+
+Ao clicar no botão “Região e nº de infectados” temos a figura 5 que apresenta as regiões de planejamento de MG. Ao clicar em uma região é apresentado o resultado da pesquisa conforme a figura 6.
+
+![Região e nº de infectados](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g5-controle-contaminados/blob/main/docs/img/Regi%C3%A3o%20e%20n%C2%BA%20de%20infectados.jpg)
+
+![Resultado da Pesquisa por Região](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g5-controle-contaminados/blob/main/docs/img/Resultado%20da%20Pesquisa%20por%20Regi%C3%A3o.png)
+
+## Tela – Leitura de QRCode
+
+O usuário deverá usar esta função para se registrar no evento.
+
+![Leitura de QRCode](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g5-controle-contaminados/blob/main/docs/img/Leitura%20de%20QRCode.png)
+
+## Tela – Gerar QRCode
+
+O organizador deverá gerar o código/token com base nas informações cadastrados do evento.
+
+![Tela – Gerar QRCode](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g5-controle-contaminados/blob/main/docs/img/Tela%20%E2%80%93%20Gerar%20QRCode.png)
+
+## Tela – Cadastro do Usuário
+
+O usuário deverá informar seu nome e CPF para posteriormente se vincular a um evento pela leitura do código/token.
+
+![Tela – Cadastro do Usuário](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g5-controle-contaminados/blob/main/docs/img/Tela%20%E2%80%93%20Cadastro%20do%20Usu%C3%A1rio.png)
+
+## Tela – Cadastro do Médico
+
+O médico deve se cadastrar nesta tela para informar sobre a atendimento de pessoas com covid-19 que compareceram no evento.
+
+![Tela – Cadastro do Médico](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g5-controle-contaminados/blob/main/docs/img/Tela%20%E2%80%93%20Cadastro%20do%20M%C3%A9dico.png)
+
+## Tela – Cadastro do Evento
+
+O organizador do evento deve fazer o cadastro com informações do evento e posteriormente gerar o código/token para que os usuários possam fazer a leitura e se vincular.
+
+![Cadastro do Evento](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g5-controle-contaminados/blob/main/docs/img/Tela%20%E2%80%93%20Cadastro%20do%20Evento.png)
 
 > **Links Úteis**:
 > - [User Flow: O Quê É e Como Fazer?](https://medium.com/7bits/fluxo-de-usu%C3%A1rio-user-flow-o-que-%C3%A9-como-fazer-79d965872534)
 > - [User Flow vs Site Maps](http://designr.com.br/sitemap-e-user-flow-quais-as-diferencas-e-quando-usar-cada-um/)
 > - [Top 25 User Flow Tools & Templates for Smooth](https://www.mockplus.com/blog/post/user-flow-tools)
-
-
-## Wireframes
-
-![Exemplo de Wireframe](img/wireframe-example.png)
-
-São protótipos usados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante do layout de elementos fundamentais na interface.
  
 > **Links Úteis**:
 > - [Protótipos vs Wireframes](https://www.nngroup.com/videos/prototypes-vs-wireframes-ux-projects/)
