@@ -47,9 +47,7 @@ A tela de início da pesquisa apresenta opções para acessar as regiões de Min
 
 Ao clicar no botão “Região e nº de infectados” temos a figura 5 que apresenta as regiões de planejamento de MG. Ao clicar em uma região é apresentado o resultado da pesquisa conforme a figura 6.
 
-![Região e nº de infectados](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g5-controle-contaminados/blob/main/docs/img/Regi%C3%A3o%20e%20n%C2%BA%20de%20infectados.jpg)
-
-![Resultado da Pesquisa por Região](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g5-controle-contaminados/blob/main/docs/img/Resultado%20da%20Pesquisa%20por%20Regi%C3%A3o.png)
+![Região e nº de infectados](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g5-controle-contaminados/blob/main/docs/img/Regi%C3%A3o%20e%20n%C2%BA%20de%20infectados.jpg)   ![Resultado da Pesquisa por Região](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g5-controle-contaminados/blob/main/docs/img/Resultado%20da%20Pesquisa%20por%20Regi%C3%A3o.png)
 
 ## Tela – Leitura de QRCode
 
