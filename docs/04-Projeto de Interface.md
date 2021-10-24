@@ -5,12 +5,39 @@
 
 Dentre as preocupações para a montagem da interface do sistema, estamos estabelecendo foco em questões como agilidade, acessibilidade e usabilidade. Desta forma, o projeto tem uma identidade visual padronizada em todas as telas que são projetadas para funcionamento em dispositivos móveis.
 
-## User Flow
+## Fluxo de Usuário
 
-A figura 2 mostra o fluxo de interação do usuário pelas telas do sistema. Cada uma das telas deste fluxo é detalhada na seção de Wireframes que segue. Para visualizar o wireframe interativo, acesse o [ambiente Marvelapp do projeto](https://marvelapp.com/prototype/2bei8846/screen/82408495).
+A figura mostra o fluxo de interação do usuário pelas telas do sistema. Cada uma das telas deste fluxo é detalhada na seção de Wireframes que segue. Para visualizar o wireframe interativo, acesse o [ambiente Marvelapp do projeto](https://marvelapp.com/prototype/2bei8846/screen/82408495).
 
 ![Fluxo de telas](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g5-controle-contaminados/blob/main/docs/img/Fluxo%20de%20telas%20do%20usu%C3%A1rio.jpg)
-                                                                
+  
+## Wireframes
+
+Conforme fluxo de telas do projeto, apresentado no item anterior, as telas do sistema são apresentadas em detalhes nos itens que seguem.
+
+-   **Tela de abertura**: é a primeira tela apresentada após o download do aplicativo.
+    
+-   **Menus**: apresenta os botões para navegação no aplicativo.
+    
+-   **Regiões e nº de infectados**: o botão direciona para a tela de escolha da região.
+    
+-   **Leitura de código/token**: o botão uma janela para digitar o código do evento.
+    
+-   **Gerar código/token**: o botão gera um código com informações do evento.
+    
+-   **Cadastro usuário**: abre a tela para o usuário informar seu nome e CPF.
+    
+-   **Cadastro médico**: abre a tela para o médico informar seu nome e CRM.
+    
+-  **Cadastro evento**: abre a tela para cadastro de informações do evento.
+
+## Tela – Abertura
+
+A tela de abertura mostra uma apresentação do sistema de Controle de Contaminados COVID-19.
+
+![Tela abertura](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g5-controle-contaminados/blob/main/docs/img/tela%20abertura.png)
+
+
 
 > **Links Úteis**:
 > - [User Flow: O Quê É e Como Fazer?](https://medium.com/7bits/fluxo-de-usu%C3%A1rio-user-flow-o-que-%C3%A9-como-fazer-79d965872534)
