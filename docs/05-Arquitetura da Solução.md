@@ -1,9 +1,9 @@
-##  ARQUITETURA DA SOLUÇÃO
+#  ARQUITETURA DA SOLUÇÃO
     
 
 Esta seção demonstra os aspectos técnicos da aplicação criada pela equipe, apresentando os componentes que determinam a solução e descreve o site de hospedagem da página.
 
-**1.  Diagrama da Solução**
+## Diagrama da Solução
     
 Neste diagrama estão expostos os componentes que fazem parte da solução:  
 
@@ -15,19 +15,19 @@ Demonstra-se a seguir os itens que fazem parte da solução divididos em módulo
 
  
 
- - [ ] **Navegador**  - Sistema de Interface/ Wireframe
- -  **Páginas web** - Arquivos em HTML, CSS, Java script, mapas e imagens que viabilizam a elaboração do sistema da aplicação. 
-    
- - **Local Storage** - Destina-se esta parte ao armazenamento de dados que são efetivados na solução, são eles: 
-    
+ - **Navegador**  - Sistema de Interface/ Wireframe
 
-
-
- - **Cadastro** - Cadastro de usuários, médicos e eventos clientes da solução.
- - **Mapas** -  Mapas de regiões com registro de contaminados em eventos.
- - **Informações** - Informações sobre contagio em determinado evento.
-- **Gerar QRCode ou token** - código gerado pela aplicação para indicar o evento. 
+    -  **Páginas web** - Arquivos em HTML, CSS, Java script, mapas e imagens que viabilizam a elaboração do sistema da aplicação.
+     
+    - **Local Storage** - Destina-se esta parte ao armazenamento de dados que são efetivados na solução, são eles:
     
+        - **Cadastro** - Cadastro de usuários, médicos e eventos clientes da solução.
+        
+        - **Mapas** -  Mapas de regiões com registro de contaminados em eventos.
+        
+        - **Informações** - Informações sobre contagio em determinado evento.
+        
+        - **Gerar QRCode ou token** - código gerado pela aplicação para indicar o evento.  
 
 -  **Registro** – Registro na entrada dos eventos. 
     
@@ -35,12 +35,11 @@ Demonstra-se a seguir os itens que fazem parte da solução divididos em módulo
     
 -   **Leitura de QRCode ou token** – Leitura pela câmera do celular.
     
-
 -  **Hospedagem** – Site que aplicação fica mantida online na web.
 
 
  
-## 2.  Hospedagem
+## Hospedagem
     
 
 Utiliza-se a plataforma Heroku como site de hospedagem da aplicação. O site é mantido em ambiente da URL.
