@@ -9,23 +9,17 @@ Pode-se concluir após uma análise detalhada de quais seriam os possíveis usu�
 As personas levantadas durante o processo de entendimento do problema são apresentadas nas figuras que se seguem.
 
 
-**Mateus Alvarenga**
+## 2.1. Personas
 
-**Idade**: 42 anos 
-**Ocupação**: Organizador de eventos, atualmente trabalha como autônomo.
-**Aplicativos:**
-Facebook
-Instagram
-LinkedIn
-**Motivações:**
-Realizar eventos para ajudar comunidades carentes.
-Prestar serviços para uma multinacional.
-**Frustrações:**
-Cancelamento de eventos devido a pandemia.
-Falta de reconhecimento da sua profissão.
-**Hobbies, História:**
-Viajar com sua família.
-Praticar ciclismo nos finais de semana.
+ As personas levantadas durante o processo de entendimento do problema são apresentadas nas figuras que se seguem. 
+
+|              ![persona thiago](https://user-images.githubusercontent.com/90941036/138729512-c828b404-33ef-4400-8d73-c96dce25e039.png)
+              Thiago Lavoe |          
+|--------------|------------|-----------|
+| Idade: 30 anos Ocupação: Médico recém formado, dá plantões em unidades de Pronto Atendimentos e Unidades básicas de saúde.|------------|------------|----------| Aplicativos: • Instagram.
+  • LinkedIn. • Aplicativos de bancos.|----------|-------|------|-------|Motivações: • Promover uma melhoria na saúde coletiva da população. • Despertar o autocuidado de seus pacientes.
+ |Frustrações • Não ter realizado o mestrado em Saúde Coletiva. • Corrupção. • Dificuldade da população ao acesso à saúde integral. 
+|Hobbies, História • Toca violão • Voluntário no lar de idosos da comunidade. Líder do projeto Mais Saúde, Mais Você|
 
 **Adriana Gonçalves**
 
