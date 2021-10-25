@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+
+<head>
+    <meta charset="UTF-8" />
+    <title>Formulário de Login</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="style.css" />
+
+    <header class="menu">
+
+        <img src="/imgs/LOGO.png" alt="Logo" width="90" height="90">
+
+        <div id="menu">
+            <ul>
+
+                <li><a href="homepage.html">Home</a>
+                <li><a href="">Serviços</a>
+                    <ul class="submenu">
+                        <li><a href=" ">Cadastrar Eventos</a></li>
+                        <li><a href=" ">Cadastrar Contaminados</a></li>
+                    </ul>
+                </li>
+                <li><a href="">Sobre</a></li>
+                </li>
+                <li><a href="login.html">Login</a></li>
+                <li><a href="cadastro.html">Cadastro</a></li>
+            </ul>
+        </div>
+    </header>
+</head>
+
+<body>
+    <div class="container">
+        <a class="links" id="paracadastro"></a>
+
+        <div class="content">
+            <!--FORMULÁRIO DE CADASTRO-->
+            <div id="cadastro">
+                <form method="post" action="">
+                    <h1>Cadastro</h1>
+
+                    <p>
+                        <label for="cpf_cad">Usuário</label>
+                        <input id="cpf_cad" name="cpf_cad" required="required" type="text"
+                            placeholder="CPF ou CNPJ ou CRM" />
+                    </p>
+                    <p>
+                        <label for="nome_cad">Nome</label>
+                        <input id="nome_cad" name="nome_cad" required="required" type="text"
+                            placeholder="Nome Completo" />
+                    </p>
+
+                    <p>
+                        <label for="telefone_cad">Telefone</label>
+                        <input id="telefone_cad" name="telefone_cad" required="required" type="tel"
+                            placeholder="(99) 99999-9999" />
+                    </p>
+
+                    <p>
+                        <label for="data_cad">Data de Nascimento</label>
+                        <input id="data_cad" name="data_cad" required="required" type="date" />
+                    </p>
+
+                    <p>
+                        <label for="senha_cad">Senha</label>
+                        <input id="senha_cad" name="senha_cad" required="required" type="password" placeholder="1234" />
+                    </p>
+
+                    <p>
+                        <input type="submit" value="Cadastrar" />
+                    </p>
+
+                    <p class="link1">
+                        Já possui conta?
+                        <a href="login.html">Ir para login</a>
+                    </p>
+                </form>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
