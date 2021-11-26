@@ -1,19 +1,26 @@
-# Plano de Testes de Software
+## 8. Plano de teste de Software
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>
+>Os requisitos para realização do teste de software são:
+* Navegador de internet - Chrome, Mozila, Internet Explorer, etc..
+* Conectividade da internet para o acesso a plataforma.
 
-Apresente os cenários de testes utilizados na realização dos testes da sua aplicação. Escolha cenários de testes que demonstrem os requisitos sendo satisfeitos.
+Caso de teste| CT-01 -- Cadastro do usuário positivado
+-----------------|---------------------------------
+**Requisitos Associados**| RF-08 : O sistema deverá permitir o cadastro dos usuários positivado.
+**Objetivo do teste**| Verificar se os dados cadastrais dos usurários estão armazedos corretamente de forma que o usuário cadastrado tenha acesso ao sistema. 
+**Passos**|- 1. Clicar em cadastar usuário -2. Fazer o cadastro do usuário  -3. Salvar o cadastro   
+**Critérios de Êxito**| O site deverá cadastrar e dar acesso ao usuário com êxito.
 
-Enumere quais cenários de testes foram selecionados para teste. Neste tópico o grupo deve detalhar quais funcionalidades avaliadas, o grupo de usuários que foi escolhido para participar do teste e as ferramentas utilizadas.
- 
-## Ferramentas de Testes (Opcional)
+**Caso de teste** | **CT-02 -- Cadastro do evento** 
+------------------|------------------------------
+**Requisitos Associados**| RF-07: O sistema deverá permitir o cadastro do evento.
+**Objetivo do teste**| Verificar se os dados cadastrais dos eventos estão sendo armazenados corretamente.
+**Passos**| -1. Clicar em cadastrar evento -2. Fazer o cadastro do evento -3. Salvar o cadastro -4.Fazer o login do evento
+**Critérios de Êxito**| O site deverá cadastrar e dar acesso aos dados do evento com êxito.
 
-Comente sobre as ferramentas de testes utilizadas.
- 
-> **Links Úteis**:
-> - [IBM - Criação e Geração de Planos de Teste](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [Práticas e Técnicas de Testes Ágeis](http://assiste.serpro.gov.br/serproagil/Apresenta/slides.pdf)
-> -  [Teste de Software: Conceitos e tipos de testes](https://blog.onedaytesting.com.br/teste-de-software/)
-> - [Criação e Geração de Planos de Teste de Software](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
-> - [UX Tools](https://uxdesign.cc/ux-user-research-and-user-testing-tools-2d339d379dc7)
+**Caso de teste**|**CT-03 -- Login do Usuario**
+-----------------|----------------------------
+**Requisitos Associados**| RF-05: O sistema deverá permitir o gerenciamento do usuário, de medicos e de organizadores de eventos.
+**Objetivo do teste**| Verificar se o sistema está fazendo o login e está dando acesso aos usuários
+**Passos**| -1. Clicar em login -2. Digitar Login e senha -3. Concluir acesso
+**Critérios de êxito**| O sistema deverá fazer o login do usuário cadastrado com sucesso
