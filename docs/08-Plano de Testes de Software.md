@@ -43,7 +43,7 @@
 |-----------------:|:------------------------------:|
 |**Requisitos Associados**| RF-06: O sistema deverá permitir o login dos usuários.|
 |**Objetivo do teste**| Fazer o login do usuário. |
-|**Passos**| -1. Clicar em login -2. Digitar Login e senha -3. Concluir acesso|
+|**Passos**|-1) Entrar no navegador -2) Acessar a página -3). Clicar em login -4) Digitar Login e senha -5) Concluir acesso|
 |**Critérios de êxito**| O sistema deverá fazer o login do usuário cadastrado com sucesso|
 
 
