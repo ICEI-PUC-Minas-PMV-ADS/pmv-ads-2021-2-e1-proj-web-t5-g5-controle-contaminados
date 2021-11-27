@@ -284,7 +284,7 @@ A seguir estão representados no quadro alguns requisitos funcionais que o proje
 |**RF – 05**|O sistema deverá exibir a lista de eventos cadastrados |Alta|
 |**RF – 06**|O sistema deverá permitir o login dos usuários.|Média|
 |**RF – 07**|O sistema deverá permitir o cadastro de eventos.|Alta|
-|**RF – 08**|O sistema deverá permitir o cadastro de usuário.|Baixa|
+|**RF – 08**|O sistema deverá permitir o cadastro de usuário.|Alta|
 
 ### **Requisitos Não funcionais**
     
