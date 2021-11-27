@@ -10,7 +10,6 @@ Aplicação que possibilita o registro da presença de pessoas em um local e o e
 
 ## Integrantes
 
-* Adan Rudieri Gonçalves da Silva
 * Gabriel Judá de Oliveira
 * Márcia Maria de Paula Ferreira
 * Sylvia Camargos Freitas
