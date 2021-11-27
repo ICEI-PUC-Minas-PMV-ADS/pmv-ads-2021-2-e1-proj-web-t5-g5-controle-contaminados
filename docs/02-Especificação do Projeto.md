@@ -278,14 +278,13 @@ A seguir estão representados no quadro alguns requisitos funcionais que o proje
 
 |ID|Descrição|Prioridade|
 |-----------|-----------|-------|
-|**RF – 01**|O sistema  deverá enviar notificações para os usuários informando se tiveram contato com pessoas contaminadas em um determinado espaço público ou evento.|Alta|
-|**RF – 02**|O sistema deverá apresentar um mapa informando as regiões com maior número de infectados (API).|Baixa|
-|**RF – 04**|O sistema deverá gerar um código/token que será utilizado pelos frequentadores dos espaços/eventos para realizar seu check-in no local.|Média|
-|**RF – 05**|O sistema deverá permitir o gerenciamento de usuários, de médicos e de organizadores de eventos.|Alta|
-|**RF – 06**|O sistema deverá conter o contato do responsável pela criação do sistema.|Média|
+|**RF – 01**|O sistema  deverá enviar notificações para os usuários informando se tiveram contato com pessoas contaminadas em um determinado espaço público ou evento.|Baixa|
+|**RF – 02**|O sistema deverá exibir lista de usuarios cadastrados |Alta|
+|**RF – 04**|O sistema deverá gerar um código/token que será utilizado pelos frequentadores dos espaços/eventos para realizar seu check-in no local.|Baixa|
+|**RF – 05**|O sistema deverá exibir a lista de eventos cadastrados |Alta|
+|**RF – 06**|O sistema deverá permitir o login dos usuários.|Média|
 |**RF – 07**|O sistema deverá permitir o cadastro de eventos.|Alta|
-|**RF – 08**|O sistema deverá permitir o cadastro de um indivíduo positivado (CPF).|Alta|
-|**RF – 09**|O sistema deverá permitir que sejam realizados filtros por idade nos diversos eventos e espaços.|Média|
+|**RF – 08**|O sistema deverá permitir o cadastro de usuário.|Baixa|
 
 ### **Requisitos Não funcionais**
     
