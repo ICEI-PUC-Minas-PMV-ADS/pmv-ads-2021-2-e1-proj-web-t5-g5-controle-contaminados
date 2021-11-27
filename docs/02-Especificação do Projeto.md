@@ -278,7 +278,7 @@ A seguir estão representados no quadro alguns requisitos funcionais que o proje
 
 |ID|Descrição|Prioridade|
 |-----------|-----------|-------|
-|**RF – 01**|O sistema  deverá enviar notificações para os usuários informando se tiveram contato com pessoas contaminadas em um determinado espaço público ou evento.|Baixa|
+|**RF – 01**|O sistema  deverá exibir lista de usuários contaminados.|Alta|
 |**RF – 02**|O sistema deverá exibir lista de usuarios cadastrados |Alta|
 |**RF – 04**|O sistema deverá gerar um código/token que será utilizado pelos frequentadores dos espaços/eventos para realizar seu check-in no local.|Baixa|
 |**RF – 05**|O sistema deverá exibir a lista de eventos cadastrados |Alta|
