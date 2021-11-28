@@ -1,0 +1,223 @@
+header{
+    background-color: rgb(16, 107, 103);
+    height: 60px;
+    border-radius: 25px;
+    margin-top: -10px;
+}
+
+body {
+background-color: lightgray;
+}
+
+h1{
+    text-align: center;
+    color: rgb(16, 107, 103);
+    font-family: Arial;
+    font-size: 40pt;
+}
+
+h1:before{
+    content: ' ';
+    display: block;
+    width: 100%;
+    height: 3px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    background: -webkit-linear-gradient(left, rgba(147,184,189,0) 0%,rgba(147,184,189,0.8) 20%,rgba(147,184,189,1) 53%,rgba(147,184,189,0.8) 79%,rgba(147,184,189,0) 100%); 
+    background: linear-gradient(left, rgba(147,184,189,0) 0%,rgba(147,184,189,0.8) 20%,rgba(147,184,189,1) 53%,rgba(147,184,189,0.8) 79%,rgba(147,184,189,0) 100%); 
+}
+
+h1:after{
+    content: ' ';
+    display: block;
+    width: 100%;
+    height: 3px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background: -webkit-linear-gradient(left, rgba(147,184,189,0) 0%,rgba(147,184,189,0.8) 20%,rgba(147,184,189,1) 53%,rgba(147,184,189,0.8) 79%,rgba(147,184,189,0) 100%); 
+    background: linear-gradient(left, rgba(147,184,189,0) 0%,rgba(147,184,189,0.8) 20%,rgba(147,184,189,1) 53%,rgba(147,184,189,0.8) 79%,rgba(147,184,189,0) 100%); 
+}
+
+a{
+    margin-top: 0px;
+    margin-right: -15px;
+    float: left;
+    text-decoration: none;
+    font-family: Arial;
+    font-size: 20pt;
+}
+
+a:hover{
+    background-color: rgb(18, 155, 148);
+}
+
+#menu > ul{
+    display: table;
+}
+
+#menu > ul > li{
+    float: left;
+}
+
+#menu li{
+    list-style: none;
+}
+#menu .submenu{
+    display: none;
+}
+
+#menu li:hover .submenu{
+    display: block;
+    position: absolute;
+}
+
+#menu a {
+    font-weight: bold;
+    width: 55px;
+    text-align: center;
+    font-size: 13px;
+    padding: 10px;
+    color: lightgray;
+    margin-left: 10px;
+    margin-top: 15px;
+    border-radius: 4px;  
+    -webkit-transition: all 0.4s linear;
+    transition: all 0.4s  linear; 
+}
+
+.submenu{ 
+    font-weight: bold;
+    font-size: 13px;
+    background-color: rgb(16, 107, 103);
+    padding: 0px 10px 10px 0px;
+    width: 130px;
+    text-align: center;
+    margin-left: -10px;
+    margin-top: 50px;
+    border-radius: 4px;  
+    -webkit-transition: all 0.4s linear;
+    transition: all 0.4s  linear;  
+}
+
+.submenu li{
+    margin: 10px;
+}
+
+.submenu a{
+    display: block;
+}
+
+.text{
+text-align: center;
+font-size: 20px;
+font-family: arial;
+margin-top: 100px;
+}
+
+img{
+    margin-top: -15px;
+    margin-right: -50px;
+    float: left;
+}
+
+.content{
+    width: 600px;
+    min-height: 560px;    
+    margin: 15px auto;
+    position: relative;   
+  }
+
+ p{
+     font-size: 20px;
+     font-family: Arial;
+ }
+
+  
+  label{
+    color: #405c60;
+    position: relative;
+    text-size-adjust: 20px;
+  }
+
+/* placeholder */
+::-webkit-input-placeholder  {
+color: #bebcbc; 
+font-style: italic;
+}
+input:-moz-placeholder,
+textarea:-moz-placeholder{
+color: #bebcbc;
+font-style: italic;
+}
+input {
+outline: none;
+}
+/*estilo dos input,  menos o checkbox */
+input:not([type="checkbox"]){
+width: 95%;
+margin-top: 4px;
+padding: 10px;    
+border: 1px solid #b2b2b2;
+
+-webkit-border-radius: 3px;
+border-radius: 3px;
+
+-webkit-box-shadow: 0px 1px 4px 0px rgba(168, 168, 168, 0.6) inset;
+box-shadow: 0px 1px 4px 0px rgba(168, 168, 168, 0.6) inset;
+
+-webkit-transition: all 0.2s linear;
+transition: all 0.2s linear;
+}
+/*estilo do botão submit */
+input[type="submit"]{
+width: 100%!important;
+cursor: pointer;  
+background: rgb(16, 107, 103);
+padding: 8px 5px;
+color: lightgray;
+font-size: 20px;  
+border: 1px solid rgb(16, 107, 103);   
+margin-bottom: 10px;  
+text-shadow: 0 1px 1px #333;
+
+-webkit-border-radius: 5px;
+border-radius: 5px;
+
+transition: all 0.2s linear;
+}
+/*estilo do botão submit no hover */
+input[type="submit"]:hover{
+background: rgb(16, 107, 103); 
+}
+
+.link1{
+position: relative;
+background: #e1eaeb;
+color: #7f7c7c;
+margin-left: 0px;
+height: 20px;
+width: 540px;
+padding: 17px 30px 20px 30px;
+font-size: 20px;
+text-align: center;
+
+-webkit-border-radius: 5px;
+border-radius: 5px;
+}
+
+.link1 a {
+font-weight: bold;
+background: #f7f8f1;
+padding: 4px;
+color: rgb(16, 107, 103);
+margin-left: 425px;
+margin-top: -30px;
+border: 1px solid rgb(16, 107, 103);
+font-size: 20px;
+
+-webkit-border-radius: 4px;
+border-radius: 4px;  
+
+-webkit-transition: all 0.4s linear;
+transition: all 0.4s  linear;
+}
