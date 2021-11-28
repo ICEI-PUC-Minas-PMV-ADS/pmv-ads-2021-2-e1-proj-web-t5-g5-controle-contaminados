@@ -14,7 +14,7 @@ MENDONÇA, Marissa. **Aplicativo Ajuda No Controle Da Pandemia Com Mapeamento De
 
 ORGANIZAÇÃO PAN-AMERICANA DA SAÚDE (OPAS). Departamento de Evidência e Inteligência para Ação em Saúde. **Entenda a infodemia e a desinformação na luta contra a Covid-19**. [Brasília, DF]: OPAS, 2020. E-book. (Página Informativa, n. 5). Disponível em: [https://iris.paho.org/bitstream/handle/10665.2/52054/Factsheet-Infodemic_por.pdf?sequence=14](https://iris.paho.org/bitstream/handle/10665.2/52054/Factsheet-Infodemic_por.pdf?sequence=14). Acesso em: 06 de setembro de 2021.
 
-GOVERNO DE MINAS GERAIS. **Regiões de Planejamento**. [https://www.mg.gov.br/conteudo/conheca-minas/geografia/regioes-de-planejamento](https://www.mg.gov.br/conteudo/conheca-minas/geografia/regioes-de-planejamento) Acesso em 04/10/2021.
+GOVERNO DE MINAS GERAIS. **Regiões de Planejamento**. [https://www.mg.gov.br/conteudo/conheca-minas/geografia/regioes-de-planejamento](https://www.mg.gov.br/conteudo/conheca-minas/geografia/regioes-de-planejamento) Acesso em 04 de outubro de 2021.
 
 > **Links Úteis**:
 > - [Formato ABNT](https://www.normastecnicas.com/abnt/trabalhos-academicos/referencias/)
