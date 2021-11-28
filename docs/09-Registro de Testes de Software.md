@@ -2,7 +2,7 @@
 
 ## **Registro de Teste - Caso de teste 01- Cadastro do Usuário**
 
-### Incucesso
+### Insucesso
 <p align="center"><img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t5-g5-controle-contaminados/blob/main/docs/img/Teste%201%20-%20insucesso.jpg"></p>
 
 ### Sucesso
