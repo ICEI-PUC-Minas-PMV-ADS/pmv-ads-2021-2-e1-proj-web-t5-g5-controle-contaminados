@@ -1,6 +1,6 @@
 # Registro de Testes de Software
 
->**Registro de Teste - Caso de teste 01- Cadastro do Usuário **
+>**Registro de Teste - Caso de teste 01- Cadastro do Usuário**
 
 
 
